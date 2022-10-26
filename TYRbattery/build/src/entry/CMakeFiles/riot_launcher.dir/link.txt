@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/riot_launcher.dir/FrameworkEntry.cpp.o CMakeFiles/riot_launcher.dir/logo.cpp.o CMakeFiles/riot_launcher.dir/main.cpp.o  -o riot_launcher 

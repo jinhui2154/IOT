@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liusuo/TYRbattery/src/lib/RIOTFrameworkContext.cpp
+riot/modules/system/RobotSystemModule.hpp
+/home/liusuo/TYRbattery/src/lib/riot/modules/system/RobotSystemModule.hpp
+riot/modules/object_save_service/OSSClient.hpp
+/home/liusuo/TYRbattery/src/lib/riot/modules/object_save_service/OSSClient.hpp
+riot/modules/topic_based/TopicClient.hpp
+/home/liusuo/TYRbattery/src/lib/riot/modules/topic_based/TopicClient.hpp
+riot/tools/filesystem.hpp
+/home/liusuo/TYRbattery/src/lib/riot/tools/filesystem.hpp
+private/module/ModuleFactory.hpp
+/home/liusuo/TYRbattery/src/lib/private/module/ModuleFactory.hpp
+variant
+-
+tinyxml2.h
+-
+

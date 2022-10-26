@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liusuo/TYRbattery/src/entry/FrameworkEntry.cpp
+FrameworkEntry.hpp
+/home/liusuo/TYRbattery/src/entry/FrameworkEntry.hpp
+riot/core/FrameworkEnvironmentInfo.hpp
+/home/liusuo/TYRbattery/src/entry/riot/core/FrameworkEnvironmentInfo.hpp
+riot/core/RIOTFrameworkContext.hpp
+/home/liusuo/TYRbattery/src/entry/riot/core/RIOTFrameworkContext.hpp
+riot/plugin/attachable_service.hpp
+/home/liusuo/TYRbattery/src/entry/riot/plugin/attachable_service.hpp
+
+/home/liusuo/TYRbattery/src/entry/FrameworkEntry.hpp
+memory
+-
+
