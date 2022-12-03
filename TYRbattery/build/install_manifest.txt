@@ -1,3 +1,5 @@
+/usr/local/share/riot/riot-config.cmake
+/usr/local/share/riot/riot-config-version.cmake
 /usr/local/include/riot/plugin/attachable_service.hpp
 /usr/local/include/riot/plugin/attachable.hpp
 /usr/local/include/riot/core/ModuleManager.hpp
@@ -23,5 +25,4 @@
 /usr/local/include/riot/modules/MessageSendListener.hpp
 /usr/local/include/riot/modules/TModuleBase.hpp
 /usr/local/include/riot/modules/object_save_service/OSSClient.hpp
-/usr/local/include/riot/modules/system/detector/SupportSystemTypes.hpp
-/usr/local/include/riot/modules/system/RobotSystemModule.hpp
+/usr/local/riot/plugin/inspection.plugin

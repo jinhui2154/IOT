@@ -6,6 +6,8 @@
 #include "riot/tools/StaticReflection.hpp"
 #include <tinyxml2.h>
 
+#include <iostream>
+
 class RIOTFrameworkContext;
 using FrameworkCtxPtr = std::shared_ptr<RIOTFrameworkContext>;
 

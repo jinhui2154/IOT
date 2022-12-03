@@ -24,7 +24,7 @@ public:
     
     ModulesManagerPtr&          modules_manager();
 
-    const std::string&          plugin_path();
+    const std::string&          plugin_path(); 
 
 private:
     RIOTFrameworkContext();

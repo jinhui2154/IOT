@@ -1,4 +1,4 @@
-# Install script for directory: /home/liusuo/TYRbattery/src/entry
+# Install script for directory: /home/liusuo/IOT/TYRbattery/src/entry
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
